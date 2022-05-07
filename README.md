@@ -11,7 +11,7 @@ Here's what you can find out about me :)<br>
 *Psst, some stuff is clickable.*
 
 ## Organizations
-[![TMC-Software](https://avatars.githubusercontent.com/u/59844890?s=200&v=4)](https://github.com/TMC-Software/)
+[![Netro Corporation](https://avatars.githubusercontent.com/u/59844890?s=200&v=4)](https://github.com/NetroCorp/)
 
 ## Music Tracking
 <!-- https://github.com/kittinan/spotify-github-profile -->
